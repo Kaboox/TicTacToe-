@@ -159,5 +159,3 @@ public class App {
         } while (winner == null);
     }
 }
-
-// PENETRATION TESTS
